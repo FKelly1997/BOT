@@ -10,7 +10,7 @@ controller.spawn({
 
 controller.hears('hello',['direct_message','direct_mention','mention'],function(bot,message) {
 
-  bot.reply(message,'Hello yourself, it is I Chuck Norris, yes yes hold you screams, i know i am amazing.');
+  bot.reply(message,'Hello yourself, it is I Chuck Norris, yes yes hold you screams, I know I am amazing.');
 
 });
 

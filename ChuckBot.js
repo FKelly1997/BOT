@@ -22,7 +22,7 @@ controller.hears('hello',['direct_message','direct_mention','mention'],function(
 
 controller.hears('who created you',['direct_message','direct_mention','mention'],function(bot,message) {
 
-  bot.reply(message,'the mighty fluff, the one knows as the fikachu');
+  bot.reply(message,'the mighty one, the one known as the Fiachra');
  });
 
 
